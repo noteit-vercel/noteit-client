@@ -31,3 +31,8 @@ HTTP requests are upgraded(Actually redirected) to HTTPS by adding the below cod
         location.replace(`https:${location.href.substring(location.protocol.length)}`);
       }
     </script>
+```
+
+## logo
+
+ <img src="https://noteit-client.herokuapp.com/logo.png" loading="eager" alt="" width="200">
