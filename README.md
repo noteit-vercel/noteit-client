@@ -35,4 +35,4 @@ HTTP requests are upgraded(Actually redirected) to HTTPS by adding the below cod
 
 ## logo
 
- <img src="https://noteit-client.herokuapp.com/logo.png" loading="eager" alt="" width="200">
+ <img src="https://noteit-online.herokuapp.com/logo.png" loading="eager" alt="" width="200">
